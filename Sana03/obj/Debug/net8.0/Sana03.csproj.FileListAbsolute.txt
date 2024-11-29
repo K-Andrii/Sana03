@@ -1,0 +1,14 @@
+C:\University\Sana\Sana03\Sana03\bin\Debug\net8.0\Sana03.exe
+C:\University\Sana\Sana03\Sana03\bin\Debug\net8.0\Sana03.deps.json
+C:\University\Sana\Sana03\Sana03\bin\Debug\net8.0\Sana03.runtimeconfig.json
+C:\University\Sana\Sana03\Sana03\bin\Debug\net8.0\Sana03.dll
+C:\University\Sana\Sana03\Sana03\bin\Debug\net8.0\Sana03.pdb
+C:\University\Sana\Sana03\Sana03\obj\Debug\net8.0\Sana03.GeneratedMSBuildEditorConfig.editorconfig
+C:\University\Sana\Sana03\Sana03\obj\Debug\net8.0\Sana03.AssemblyInfoInputs.cache
+C:\University\Sana\Sana03\Sana03\obj\Debug\net8.0\Sana03.AssemblyInfo.cs
+C:\University\Sana\Sana03\Sana03\obj\Debug\net8.0\Sana03.csproj.CoreCompileInputs.cache
+C:\University\Sana\Sana03\Sana03\obj\Debug\net8.0\Sana03.dll
+C:\University\Sana\Sana03\Sana03\obj\Debug\net8.0\refint\Sana03.dll
+C:\University\Sana\Sana03\Sana03\obj\Debug\net8.0\Sana03.pdb
+C:\University\Sana\Sana03\Sana03\obj\Debug\net8.0\Sana03.genruntimeconfig.cache
+C:\University\Sana\Sana03\Sana03\obj\Debug\net8.0\ref\Sana03.dll
